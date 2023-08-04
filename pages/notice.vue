@@ -4,12 +4,12 @@
 			<diy-noticebar class="flex1 diy-notice-bar" color="#07c160" bgColor="#fff" leftIcon="diy-icon-notification">
 				<!-- #ifndef VUE3 -->
 				<block slot="content">
-					<text class="diy-notice-item"> DIY官网做最好的拖拽式可视化设计工具 </text>
+					<text class="diy-notice-item"> ยินดีต้อนรับเข้าสู่ GM-TH </text>
 				</block>
 				<!-- #endif -->
 				<!-- #ifdef VUE3 -->
 				<block v-slot:content>
-					<text class="diy-notice-item"> DIY官网做最好的拖拽式可视化设计工具 </text>
+					<text class="diy-notice-item"> ยินดีต้อนรับเข้าสู่ GM-TH </text>
 				</block>
 				<!-- #endif -->
 			</diy-noticebar>

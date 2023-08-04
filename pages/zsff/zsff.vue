@@ -103,7 +103,7 @@
 						<view class="diygw-grid-icon diygw-avatar radius">
 							<image mode="aspectFit" class="diygw-avatar-img radius" src="https://lib.diygw.com/static/icon/icon1/icon1_rm.png"></image>
 						</view>
-						<view class="diygw-grid-title"> 热门 </view>
+						<view class="diygw-grid-title"> เป็นที่นิยม </view>
 					</view>
 				</view>
 				<view class="diygw-grid-item">
@@ -111,7 +111,7 @@
 						<view class="diygw-grid-icon diygw-avatar radius">
 							<image mode="aspectFit" class="diygw-avatar-img radius" src="https://lib.diygw.com/static/icon/icon1/icon1_aq.png"></image>
 						</view>
-						<view class="diygw-grid-title"> 法律 </view>
+						<view class="diygw-grid-title"> กฎ </view>
 					</view>
 				</view>
 				<view class="diygw-grid-item">
@@ -119,7 +119,7 @@
 						<view class="diygw-grid-icon diygw-avatar radius">
 							<image mode="aspectFit" class="diygw-avatar-img radius" src="https://lib.diygw.com/static/icon/icon1/icon1_gw.png"></image>
 						</view>
-						<view class="diygw-grid-title"> 营销 </view>
+						<view class="diygw-grid-title"> การตลาด </view>
 					</view>
 				</view>
 				<view class="diygw-grid-item">
@@ -127,7 +127,7 @@
 						<view class="diygw-grid-icon diygw-avatar radius">
 							<image mode="aspectFit" class="diygw-avatar-img radius" src="https://lib.diygw.com/static/icon/icon1/icon1_fs.png"></image>
 						</view>
-						<view class="diygw-grid-title"> 文学 </view>
+						<view class="diygw-grid-title"> วรรณกรรม </view>
 					</view>
 				</view>
 				<view class="diygw-grid-item">
@@ -135,7 +135,7 @@
 						<view class="diygw-grid-icon diygw-avatar radius">
 							<image mode="aspectFit" class="diygw-avatar-img radius" src="https://lib.diygw.com/static/icon/icon1/icon1_pxb.png"></image>
 						</view>
-						<view class="diygw-grid-title"> 排行 </view>
+						<view class="diygw-grid-title">อันดับ </view>
 					</view>
 				</view>
 				<view class="diygw-grid-item">
@@ -143,7 +143,7 @@
 						<view class="diygw-grid-icon diygw-avatar radius">
 							<image mode="aspectFit" class="diygw-avatar-img radius" src="https://lib.diygw.com/static/icon/icon1/icon1_dz.png"></image>
 						</view>
-						<view class="diygw-grid-title"> 教育 </view>
+						<view class="diygw-grid-title"> ให้ความรู้ </view>
 					</view>
 				</view>
 				<view class="diygw-grid-item">
@@ -151,7 +151,7 @@
 						<view class="diygw-grid-icon diygw-avatar radius">
 							<image mode="aspectFit" class="diygw-avatar-img radius" src="https://lib.diygw.com/static/icon/icon1/icon1_xsqg.png"></image>
 						</view>
-						<view class="diygw-grid-title"> 商场 </view>
+						<view class="diygw-grid-title"> ห้างสรรพสินค้า </view>
 					</view>
 				</view>
 				<view class="diygw-grid-item">
@@ -159,7 +159,7 @@
 						<view class="diygw-grid-icon diygw-avatar radius">
 							<image mode="aspectFit" class="diygw-avatar-img radius" src="https://lib.diygw.com/static/icon/icon1/icon1_ys.png"></image>
 						</view>
-						<view class="diygw-grid-title"> 安全 </view>
+						<view class="diygw-grid-title"> ความปลอดภัย </view>
 					</view>
 				</view>
 				<view class="diygw-grid-item">
@@ -167,7 +167,7 @@
 						<view class="diygw-grid-icon diygw-avatar radius">
 							<image mode="aspectFit" class="diygw-avatar-img radius" src="https://lib.diygw.com/static/icon/icon1/icon1_dj.png"></image>
 						</view>
-						<view class="diygw-grid-title"> 提升 </view>
+						<view class="diygw-grid-title"> ส่งเสริม </view>
 					</view>
 				</view>
 				<view class="diygw-grid-item">
@@ -175,7 +175,7 @@
 						<view class="diygw-grid-icon diygw-avatar radius">
 							<image mode="aspectFit" class="diygw-avatar-img radius" src="https://lib.diygw.com/static/icon/icon1/icon1_kf.png"></image>
 						</view>
-						<view class="diygw-grid-title"> 客服 </view>
+						<view class="diygw-grid-title"> บริการลูกค้า </view>
 					</view>
 				</view>
 			</view>
@@ -184,36 +184,36 @@
 			<view class="diygw-pzx" style="border-bottom: 1px solid #eee"></view>
 		</view>
 		<view class="diygw-title flex diygw-col-24">
-			<view class="title font-normal"> 好知识免费领 </view>
+			<view class="title font-normal"> ความรู้ดีๆ ฟรีๆ </view>
 		</view>
 		<view class="flex diygw-col-24 flex-wrap flex2-clz">
 			<view class="flex diygw-col-12 flex-direction-column items-center flex-wrap flex3-clz">
 				<image src="https://libs.diygw.com/upload/2022/02/14/4a448af9-15ad-45de-8005-9bd3c83e35d9/wbt-3jpg" class="response diygw-col-24 image2-clz" mode="widthFix"></image>
-				<view class="diygw-col-24 text2-clz diygw-text-md"> DIY视频教程 </view>
+				<view class="diygw-col-24 text2-clz diygw-text-md"> เครดิตฟรี </view>
 				<view class="flex diygw-col-24 justify-center">
 					<view class="diygw-tag margin-xs md radius line-orange">
-						<text> 免费领取 </text>
+						<text> กดรับ </text>
 					</view>
 				</view>
 			</view>
 			<view class="flex diygw-col-12 flex-direction-column items-center flex-wrap flex4-clz">
 				<image src="https://libs.diygw.com/upload/2022/02/14/ccc6d2c0-d4a9-4776-b4dd-6af5e50274ff/wbt-3jpg" class="response diygw-col-24 image1-clz" mode="widthFix"></image>
-				<view class="diygw-col-24 text1-clz diygw-text-md"> DIY视频教程 </view>
+				<view class="diygw-col-24 text1-clz diygw-text-md"> เครดิตฟรี </view>
 				<view class="flex diygw-col-24 justify-center">
 					<view class="diygw-tag margin-xs md radius line-orange">
-						<text> 免费领取 </text>
+						<text> กดรับ </text>
 					</view>
 				</view>
 			</view>
 		</view>
 		<view class="diygw-title flex diygw-col-24">
-			<view class="title font-normal"> 榜单 </view>
+			<view class="title font-normal"> รายการ </view>
 		</view>
 		<scroll-view scroll-x scroll-with-animation class="flex scroll-view diygw-col-24 flex-nowrap flex6-clz">
 			<view class="flex flex-nowrap">
 				<view class="flex flex-wrap diygw-col-21 flex-direction-column flex5-clz">
 					<view class="diygw-title flex gradual-orange diygw-col-24">
-						<view class="title font-normal"> 热门课程Top50 </view>
+						<view class="title font-normal"> ตารางทายบอลวันนี้ </view>
 						<view class="more">
 							<text class="diy-icon-right"></text>
 						</view>
@@ -225,8 +225,8 @@
 									<image mode="aspectFit" class="diygw-avatar-img" src="https://libs.diygw.com/upload/2022/02/14/3bcc22df-aa81-4850-9426-aa45ea7bc0ec/wbt-4jpg"></image>
 								</view>
 								<view class="content">
-									<view class="title"> 设计新人【实战DIY可视化】 </view>
-									<view class="text-sm remark"> 教大家如何快速用DIY可视化做项目 </view>
+									<view class="title"> คู่【แมนยู-ลิเวอร์พู】 </view>
+									<view class="text-sm remark"> แจกเงินแสน </view>
 								</view>
 							</view>
 							<view style="" class="diygw-item col-100 row arrow solid-bottom list-item-clz">
@@ -234,8 +234,8 @@
 									<image mode="aspectFit" class="diygw-avatar-img" src="https://libs.diygw.com/upload/2022/02/14/4a448af9-15ad-45de-8005-9bd3c83e35d9/wbt-3jpg"></image>
 								</view>
 								<view class="content">
-									<view class="title"> 设计新人【实战DIY可视化】 </view>
-									<view class="text-sm remark"> 教大家如何快速用DIY可视化做项目 </view>
+									<view class="title"> คู่【แมนยู-ลิเวอร์พู】 </view>
+									<view class="text-sm remark"> แจกเงินแสน </view>
 								</view>
 							</view>
 							<view style="" class="diygw-item col-100 row arrow solid-bottom list-item-clz">
@@ -243,8 +243,8 @@
 									<image mode="aspectFit" class="diygw-avatar-img" src="https://libs.diygw.com/upload/2022/02/14/3bcc22df-aa81-4850-9426-aa45ea7bc0ec/wbt-4jpg"></image>
 								</view>
 								<view class="content">
-									<view class="title"> 设计新人【实战DIY可视化】 </view>
-									<view class="text-sm remark"> 教大家如何快速用DIY可视化做项目 </view>
+									<view class="title"> คู่【แมนยู-ลิเวอร์พู】 </view>
+									<view class="text-sm remark"> แจกเครดิตฟรี 200 บาท </view>
 								</view>
 							</view>
 						</view>
@@ -252,7 +252,7 @@
 				</view>
 				<view class="flex flex-wrap diygw-col-21 flex-direction-column flex7-clz">
 					<view class="diygw-title flex gradual-red diygw-col-24">
-						<view class="title font-normal"> 热门课程Top50 </view>
+						<view class="title font-normal"> ตารางทายบอลพรุ่งนี้ </view>
 						<view class="more">
 							<text class="diy-icon-right"></text>
 						</view>
@@ -264,8 +264,8 @@
 									<image mode="aspectFit" class="diygw-avatar-img" src="https://libs.diygw.com/upload/2022/02/14/3bcc22df-aa81-4850-9426-aa45ea7bc0ec/wbt-4jpg"></image>
 								</view>
 								<view class="content">
-									<view class="title"> 设计新人【实战DIY可视化】 </view>
-									<view class="text-sm remark"> 教大家如何快速用DIY可视化做项目 </view>
+									<view class="title"> คู่【แมนยู-ลิเวอร์พู】 </view>
+									<view class="text-sm remark"> แจกเงินแสน </view>
 								</view>
 							</view>
 							<view style="" class="diygw-item col-100 row arrow solid-bottom list2-item-clz">
@@ -273,8 +273,8 @@
 									<image mode="aspectFit" class="diygw-avatar-img" src="https://libs.diygw.com/upload/2022/02/14/4a448af9-15ad-45de-8005-9bd3c83e35d9/wbt-3jpg"></image>
 								</view>
 								<view class="content">
-									<view class="title"> 设计新人【实战DIY可视化】 </view>
-									<view class="text-sm remark"> 教大家如何快速用DIY可视化做项目 </view>
+									<view class="title"> คู่【แมนยู-ลิเวอร์พู】 </view>
+									<view class="text-sm remark"> แจกเงินแสน </view>
 								</view>
 							</view>
 							<view style="" class="diygw-item col-100 row arrow solid-bottom list2-item-clz">
@@ -282,8 +282,8 @@
 									<image mode="aspectFit" class="diygw-avatar-img" src="https://libs.diygw.com/upload/2022/02/14/3bcc22df-aa81-4850-9426-aa45ea7bc0ec/wbt-4jpg"></image>
 								</view>
 								<view class="content">
-									<view class="title"> 设计新人【实战DIY可视化】 </view>
-									<view class="text-sm remark"> 教大家如何快速用DIY可视化做项目 </view>
+									<view class="title"> คู่【แมนยู-วิเวอร์พู】 </view>
+									<view class="text-sm remark"> แจกเครดิตฟรี 200 บาท </view>
 								</view>
 							</view>
 						</view>
@@ -302,8 +302,8 @@
 							<image mode="aspectFit" class="diygw-avatar-img" src="https://lib.diygw.com/static/icon/icon1/icon1_rm.png"></image>
 						</view>
 						<view class="content">
-							<view class="title"> DIY可视化 </view>
-							<view class="text-sm remark"> 3天前 DIY可视化公司 </view>
+							<view class="title"> รายการบอลวันนี้ </view>
+							<view class="text-sm remark"> Ballclub168 </view>
 						</view>
 					</view>
 				</view>
@@ -315,7 +315,7 @@
 							<image mode="aspectFit" class="diygw-avatar-img" src="https://libs.diygw.com/upload/2022/01/22/e71a0c81-3923-46e4-a744-2af215a25781/miniprogramcode_177png"></image>
 						</view>
 						<view class="content">
-							<view class="title"> DIY可视化开源推荐 </view>
+							<view class="title"> เวลา 00.00 น. </view>
 							<view class="text-sm remark"> DIY官网可视化工具做好的可视化拖拽开发工具，无须编程、零代码基础、所见即所得设计工具，轻松制作微信小程序、支付宝小程序、Vue3、H5、WebApp、UNIAPP、单页动画 </view>
 						</view>
 					</view>
@@ -324,15 +324,15 @@
 			<view class="flex diygw-col-24 justify-between">
 				<view class="diygw-tag margin-xs md radius">
 					<text class="icon diy-icon-share"></text>
-					<text> 分享 </text>
+					<text> แชร์ </text>
 				</view>
 				<view class="diygw-tag margin-xs md radius">
 					<text class="icon diy-icon-comment"></text>
-					<text> 100 </text>
+					<text> คอมเม้น  100 </text>
 				</view>
 				<view class="diygw-tag margin-xs md radius">
 					<text class="icon diy-icon-appreciate"></text>
-					<text> 1000 </text>
+					<text> ถูกใจ 1000 </text>
 				</view>
 			</view>
 			<view class="flex diygw-col-24">
@@ -369,15 +369,15 @@
 			<view class="flex diygw-col-24 justify-between">
 				<view class="diygw-tag margin-xs md radius">
 					<text class="icon diy-icon-share"></text>
-					<text> 分享 </text>
+					<text> แชร์ </text>
 				</view>
 				<view class="diygw-tag margin-xs md radius">
 					<text class="icon diy-icon-comment"></text>
-					<text> 100 </text>
+					<text> คอมเม้น  100 </text>
 				</view>
 				<view class="diygw-tag margin-xs md radius">
 					<text class="icon diy-icon-appreciate"></text>
-					<text> 1000 </text>
+					<text> ถูกใจ 1000 </text>
 				</view>
 			</view>
 			<view class="flex diygw-col-24">
@@ -389,35 +389,35 @@
 				<button @tap="navigateTo" data-type="page" data-url="/pages/page/page" class="diygw-action">
 					<view class="diygw-grid-inner">
 						<view class="diygw-grid-icon diygw-avatar">
-							<image mode="aspectFit" class="diygw-avatar-img" src="https://lib.diygw.com/static/icon/icon4/icon4_bf.png"></image>
+							<image mode="aspectFit" class="diygw-avatar-img" src="/static/grid1.png"></image>
 						</view>
-						<view class="diygw-grid-title"> 首页 </view>
+						<view class="diygw-grid-title"> หน้าหลัก </view>
 					</view>
 				</button>
 				<button @tap="navigateTo" data-type="page" data-url="/pages/zsff/zsffsq" class="diygw-action">
 					<view class="diygw-grid-inner">
 						<view class="diygw-grid-icon diygw-avatar">
-							<image mode="aspectFit" class="diygw-avatar-img" src="https://lib.diygw.com/static/icon/icon4/icon4_xx.png"></image>
+							<image mode="aspectFit" class="diygw-avatar-img" src="/static/grid2.png"></image>
 							<view class="diygw-tag badge bar-badge-1 gradual-red"> 10 </view>
 						</view>
-						<view class="diygw-grid-title"> 社圈 </view>
+						<view class="diygw-grid-title"> ภารกิจ </view>
 					</view>
 				</button>
 				<button @tap="navigateTo" data-type="page" data-url="/pages/zsff/zsfflb" class="diygw-action">
 					<view class="diygw-grid-inner">
 						<view class="diygw-grid-icon diygw-avatar">
-							<image mode="aspectFit" class="diygw-avatar-img" src="https://lib.diygw.com/static/icon/icon4/icon4_ds.png"></image>
+							<image mode="aspectFit" class="diygw-avatar-img" src="/static/grid3.png"></image>
 							<view class="diygw-tag badge empty red"></view>
 						</view>
-						<view class="diygw-grid-title"> 分类 </view>
+						<view class="diygw-grid-title"> แชท </view>
 					</view>
 				</button>
 				<button class="diygw-action">
 					<view class="diygw-grid-inner">
 						<view class="diygw-grid-icon diygw-avatar">
-							<image mode="aspectFit" class="diygw-avatar-img" src="https://lib.diygw.com/static/icon/icon4/icon4_yhsz.png"></image>
+							<image mode="aspectFit" class="diygw-avatar-img" src="/static/grid4.png"></image>
 						</view>
-						<view class="diygw-grid-title"> 我的 </view>
+						<view class="diygw-grid-title"> ข้อมูล </view>
 					</view>
 				</button>
 			</view>
@@ -432,7 +432,7 @@
 		data() {
 			return {
 				search: '',
-				tabsDatas: [{ text: `首页` }, { text: `课程` }, { text: `听书` }, { text: `电子书` }, { text: `训练营` }, { text: `其他` }],
+				tabsDatas: [{ text: `หน้าแรก` }, { text: `ดูหนัง` }, { text: `ดูบอล` }, { text: `เครดิตฟรี` }, { text: `ทายบอล` }, { text: `เงื่อนไข` }],
 				tabsIndex: 0,
 				modal: ''
 			};

@@ -25,4 +25,5 @@ export default {
 
 	@import './uni_modules/diy-uview-ui/index.scss';
 	@import 'common/diygw-ui/uview.scss';
+	
 </style>

@@ -4,14 +4,13 @@
 			"path": "pages/index",
 			"style": {
 				"navigationBarTitleText": "หน้าหลัก",
-				"navigationBarBackgroundColor": "#E11299",
-				"navigationStyle": "custom"
+				"navigationBarBackgroundColor": "#E11299"
 			}
 		},
 		{
 			"path": "pages/shequ",
 			"style": {
-				"navigationBarTitleText": "社区商城首页",
+				"navigationBarTitleText": "หน้าแรกของคอมมูนิตี้มอลล์",
 				"navigationBarBackgroundColor": "#E11299",
 				"navigationStyle": "custom"
 			}
@@ -19,7 +18,7 @@
 		{
 			"path": "pages/page/page",
 			"style": {
-				"navigationBarTitleText": "应用页面",
+				"navigationBarTitleText": "หน้าแอปพลิเคชัน",
 				"navigationBarBackgroundColor": "#E11299",
 				"navigationStyle": "custom"
 			}
@@ -27,7 +26,7 @@
 		{
 			"path": "pages/app/index",
 			"style": {
-				"navigationBarTitleText": "壁纸主页",
+				"navigationBarTitleText": "วอลเปเปอร์บ้าน",
 				"navigationBarBackgroundColor": "#E11299",
 				"navigationStyle": "custom"
 			}
@@ -35,14 +34,14 @@
 		{
 			"path": "pages/app/shop",
 			"style": {
-				"navigationBarTitleText": "商城主页",
+				"navigationBarTitleText": "หน้าแรกของห้างสรรพสินค้า",
 				"navigationBarBackgroundColor": "#E11299"
 			}
 		},
 		{
 			"path": "pages/zsff/zsff",
 			"style": {
-				"navigationBarTitleText": "知识付费首页",
+				"navigationBarTitleText": "หน้าแรกการชำระเงินความรู้",
 				"navigationBarBackgroundColor": "#E11299",
 				"navigationStyle": "custom"
 			}
@@ -50,7 +49,7 @@
 		{
 			"path": "pages/zsff/zsfflb",
 			"style": {
-				"navigationBarTitleText": "知识付费列表页",
+				"navigationBarTitleText": "หน้ารายการความรู้ที่ต้องชำระ",
 				"navigationBarBackgroundColor": "#E11299",
 				"navigationStyle": "custom"
 			}
@@ -58,7 +57,7 @@
 		{
 			"path": "pages/zsff/zsffsq",
 			"style": {
-				"navigationBarTitleText": "知识付费社圈",
+				"navigationBarTitleText": "ชุมชนการชำระเงินความรู้",
 				"navigationBarBackgroundColor": "#E11299",
 				"navigationStyle": "custom"
 			}
@@ -66,7 +65,7 @@
 		{
 			"path": "pages/zsff/zsffgl",
 			"style": {
-				"navigationBarTitleText": "知识付费个人中心",
+				"navigationBarTitleText": "ศูนย์ส่วนบุคคลที่จ่ายความรู้",
 				"navigationBarBackgroundColor": "#E11299",
 				"navigationStyle": "custom"
 			}
@@ -74,35 +73,35 @@
 		{
 			"path": "pages/layout",
 			"style": {
-				"navigationBarTitleText": "布局",
+				"navigationBarTitleText": "เค้าโครง",
 				"navigationBarBackgroundColor": "#E11299"
 			}
 		},
 		{
 			"path": "pages/button",
 			"style": {
-				"navigationBarTitleText": "按钮",
+				"navigationBarTitleText": "ปุ่ม",
 				"navigationBarBackgroundColor": "#E11299"
 			}
 		},
 		{
 			"path": "pages/avatar",
 			"style": {
-				"navigationBarTitleText": "图标",
+				"navigationBarTitleText": "ไอคอน",
 				"navigationBarBackgroundColor": "#E11299"
 			}
 		},
 		{
 			"path": "pages/tag",
 			"style": {
-				"navigationBarTitleText": "标签",
+				"navigationBarTitleText": "ฉลาก",
 				"navigationBarBackgroundColor": "#E11299"
 			}
 		},
 		{
 			"path": "pages/title",
 			"style": {
-				"navigationBarTitleText": "标题",
+				"navigationBarTitleText": "ชื่อ",
 				"navigationBarBackgroundColor": "#E11299",
 				"navigationStyle": "custom"
 			}
@@ -110,56 +109,56 @@
 		{
 			"path": "pages/grid",
 			"style": {
-				"navigationBarTitleText": "宫格",
+				"navigationBarTitleText": "ตาราง",
 				"navigationBarBackgroundColor": "#E11299"
 			}
 		},
 		{
 			"path": "pages/list",
 			"style": {
-				"navigationBarTitleText": "列表",
+				"navigationBarTitleText": "รายการ",
 				"navigationBarBackgroundColor": "#E11299"
 			}
 		},
 		{
 			"path": "pages/image",
 			"style": {
-				"navigationBarTitleText": "图片",
+				"navigationBarTitleText": "รูปภาพ",
 				"navigationBarBackgroundColor": "#E11299"
 			}
 		},
 		{
 			"path": "pages/swiper",
 			"style": {
-				"navigationBarTitleText": "轮播",
+				"navigationBarTitleText": "ม้าหมุน",
 				"navigationBarBackgroundColor": "#E11299"
 			}
 		},
 		{
 			"path": "pages/timeline",
 			"style": {
-				"navigationBarTitleText": "时间轴",
+				"navigationBarTitleText": "เส้นเวลา",
 				"navigationBarBackgroundColor": "#E11299"
 			}
 		},
 		{
 			"path": "pages/steps",
 			"style": {
-				"navigationBarTitleText": "步骤条",
+				"navigationBarTitleText": "แถบขั้นตอน",
 				"navigationBarBackgroundColor": "#E11299"
 			}
 		},
 		{
 			"path": "pages/modal",
 			"style": {
-				"navigationBarTitleText": "模态框",
+				"navigationBarTitleText": "กล่องโมดอล",
 				"navigationBarBackgroundColor": "#E11299"
 			}
 		},
 		{
 			"path": "pages/tab",
 			"style": {
-				"navigationBarTitleText": "选项卡",
+				"navigationBarTitleText": "แท็บ",
 				"navigationBarBackgroundColor": "#E11299"
 			}
 		},
@@ -173,63 +172,63 @@
 		{
 			"path": "pages/buttons",
 			"style": {
-				"navigationBarTitleText": "Home",
+				"navigationBarTitleText": "ปุ่มด้านล่าง",
 				"navigationBarBackgroundColor": "#E11299"
 			}
 		},
 		{
 			"path": "pages/rate",
 			"style": {
-				"navigationBarTitleText": "星级评分",
+				"navigationBarTitleText": "ระดับดาว",
 				"navigationBarBackgroundColor": "#E11299"
 			}
 		},
 		{
 			"path": "pages/progress",
 			"style": {
-				"navigationBarTitleText": "进度条",
+				"navigationBarTitleText": "แถบความคืบหน้า",
 				"navigationBarBackgroundColor": "#E11299"
 			}
 		},
 		{
 			"path": "pages/notice",
 			"style": {
-				"navigationBarTitleText": "通知栏",
+				"navigationBarTitleText": "แถบการแจ้งเตือน",
 				"navigationBarBackgroundColor": "#E11299"
 			}
 		},
 		{
 			"path": "pages/absolute",
 			"style": {
-				"navigationBarTitleText": "绝对布局",
+				"navigationBarTitleText": "เค้าโครงที่สมบูรณ์",
 				"navigationBarBackgroundColor": "#E11299"
 			}
 		},
 		{
 			"path": "pages/collapse",
 			"style": {
-				"navigationBarTitleText": "折叠面板",
+				"navigationBarTitleText": "แผงหีบเพลง",
 				"navigationBarBackgroundColor": "#E11299"
 			}
 		},
 		{
 			"path": "pages/audio",
 			"style": {
-				"navigationBarTitleText": "音频组件",
+				"navigationBarTitleText": "ส่วนประกอบเสียง",
 				"navigationBarBackgroundColor": "#E11299"
 			}
 		},
 		{
 			"path": "pages/cubes",
 			"style": {
-				"navigationBarTitleText": "魔方图片",
+				"navigationBarTitleText": "ภาพลูกบาศก์ของรูบิค",
 				"navigationBarBackgroundColor": "#E11299"
 			}
 		},
 		{
 			"path": "pages/compoment",
 			"style": {
-				"navigationBarTitleText": "组件",
+				"navigationBarTitleText": "ส่วนประกอบ",
 				"navigationBarBackgroundColor": "#E11299",
 				"navigationStyle": "custom"
 			}
@@ -237,14 +236,14 @@
 		{
 			"path": "pages/swipers",
 			"style": {
-				"navigationBarTitleText": "组件轮播",
+				"navigationBarTitleText": "ม้าหมุนส่วนประกอบ",
 				"navigationBarBackgroundColor": "#E11299"
 			}
 		},
 		{
 			"path": "pages/forms",
 			"style": {
-				"navigationBarTitleText": "表单",
+				"navigationBarTitleText": "รูปร่าง",
 				"navigationBarBackgroundColor": "#E11299"
 			}
 		},
@@ -258,7 +257,7 @@
 		{
 			"path": "pages/webview",
 			"style": {
-				"navigationBarTitleText": ""
+				"navigationBarTitleText": "GMTH"
 			}
 		}
 	],

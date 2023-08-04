@@ -8,7 +8,7 @@
 							<image mode="aspectFit" class="diygw-avatar-img radius" src="https://lib.diygw.com/static/icon/icon2/icon2_gh.png"></image>
 							<view class="diygw-tag badge empty grid10-badge-0 red"></view>
 						</view>
-						<view class="diygw-grid-title"> 点击打电话 </view>
+						<view class="diygw-grid-title"> คลิกเพื่อโทร </view>
 					</view>
 				</view>
 				<view @tap="navigateTo" data-type="copy" data-copy="https://www.diygw.com" data-tip="" class="diygw-grid-item">
@@ -16,7 +16,7 @@
 						<view class="diygw-grid-icon diygw-avatar radius">
 							<image mode="aspectFit" class="diygw-avatar-img radius" src="https://lib.diygw.com/static/icon/icon2/icon2_lj.png"></image>
 						</view>
-						<view class="diygw-grid-title"> 点击复制 </view>
+						<view class="diygw-grid-title"> คลิกเพื่อคัดลอก </view>
 					</view>
 				</view>
 				<view @tap="navigateTo" data-type="page" data-url="/pages/page/page" class="diygw-grid-item">
@@ -24,7 +24,7 @@
 						<view class="diygw-grid-icon diygw-avatar radius">
 							<image mode="aspectFit" class="diygw-avatar-img radius" src="https://lib.diygw.com/static/icon/icon2/icon2_gd.png"></image>
 						</view>
-						<view class="diygw-grid-title"> 更多 </view>
+						<view class="diygw-grid-title"> มากกว่า </view>
 					</view>
 				</view>
 				<view @tap="navigateTo" data-type="copy" data-copy="15913132246" data-tip="复制成功，前往微信查找" class="diygw-grid-item">
